@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A remonstrance and declaration of the young men and apprentices of the City of London To the Right Honourable the Lord Mayor, Court of Aldermen, and Common-councell of the same city, &amp;c. and as of publick concernment to the whole kingdome</title>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28888</idno><idno type="EEBO-CITATION">99829443</idno>
+  <idno type="VID">207060</idno>
+  <idno type="EEBO-PROQUEST">2240869810</idno>
+  
+            <idno type="STC">Wing R964A</idno>
+            <idno type="PROQUEST">99829443</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99829443e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28888)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207060)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1979:08)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A remonstrance and declaration of the young men and apprentices of the City of London To the Right Honourable the Lord Mayor, Court of Aldermen, and Common-councell of the same city, &amp;c. and as of publick concernment to the whole kingdome</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by R.J.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"'That the person of the King be brought unto his Parliament; That the King be not assaulted or disturbed; That his just Right and Prerogative be setled upon him, &amp;c.'"--Thomason Catalogue.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term type="topical_term">Prerogative, Royal --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:207060:1"/>
+            <pb facs="tcp:207060:1"/>
+            <p>A REMONSTRANCE AND DECLARATION OF THE Young men and Apprentices of the City of <hi>LONDON.</hi>
+            </p>
+            <p>TO The Right Honourable the Lord Mayor, Court of Aldermen, and Common Coun<g ref="char:EOLhyphen"/>cell of the same City, &amp;c.</p>
+            <p>AND As of publick concernment to the whole <hi>KINGDOME:</hi>
+            </p>
+            <p>
+               <hi>Quae nocent, docent.</hi>
+            </p>
+            <p>More Elegantly,</p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>
+               <hi>London</hi> Printed by R.J. 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:207060:2"/>
+            <pb n="1" facs="tcp:207060:2"/>
+            <head>A Remonstrance and Declaration of the Young men and Apprentices of the famous City of <hi>LONDON:</hi>
+            </head>
+            <head type="sub">TO THE Right Honourable the Lord Mayor, Court of Aldermen, and Common Coun<g ref="char:EOLhyphen"/>cell of the same City, &amp;c.</head>
+            <p>THAT wee have desperately adventured in defence of this poore oppressed Kingdome; it is sufficiently known: And truely for our owne parts, we may too sadly speak it, that we have more sought the publique good, then we have our owne welfare. Yet that the world may know, that notwithstanding, our long filence that we are still touched with the sense of publick cala<g ref="char:EOLhyphen"/>mities, And willing, so farre as in us rests, to put a period to the distractions of this Nation, and to prevent whatsoever mischiefes may accrue, and arise from the dangerous designes of many adversa<g ref="char:EOLhyphen"/>ries in this City, glossed over with deluding pretences, we are bold to publish to the world these ensuing lines.</p>
+            <p>This Kingdome not many years since, it was <hi>(gloria mundi)</hi> the beauty and glory of the world: who ever entred its confines, that beheld not matter of great applause? It was once <hi>propugnaculum salu<g ref="char:EOLhyphen"/>tis Regnis vicinis) S<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>tlands</hi> and <hi>Irelands</hi> Fortresse, but alasse! <hi>(hor<g ref="char:EOLhyphen"/>ribile dictu)</hi> with astonishment and pity, may we speak it, and too true<g ref="char:EOLhyphen"/>ly say, <hi>invidia Gentium,</hi> It is now become the scorne of Nations: <hi>Et aperto praeliis,</hi> and she lies open to all for a prey. It is true, some, like so many <hi>Heroes,</hi> appeared, <hi>in principio calamitatis</hi> in the beginning of her travels, and pretended strong friendship each boast ng no lesse th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n the Mid wives skill. But alas! how r<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sts <hi>England?</hi> doth not
+<pb n="2" facs="tcp:207060:3"/>she lie still in pain? Are not her pangs now greater then ever? Who sees it not? Who heares not her groans? O <hi>England</hi> where are now thy deliverers? thy friends are become like passengers, that rather laugh, then in the least kinde seem to condole thy misery? And whence ari<g ref="char:EOLhyphen"/>seth this strangenesse? whence comes this dire Alarm, but from hy<g ref="char:EOLhyphen"/>pocriticall hearts, and such sycophants, such base and false pretenders, as never before was bred within thy borders?</p>
+            <p>'Tis high time to appeare, since such pretending Friends are be<g ref="char:EOLhyphen"/>come thy greatest Foes; and those who were intrusted for thy welfare, and thy good and happinesse, sentence, as it were, thy dismall doom: Surely, hee that abhors that tongue that speakes otherwise then the heart thinketh, can no longer contain himself from waving the de<g ref="char:EOLhyphen"/>vouring Sword, were he fure to have it suddainly pierce his owne bowells.</p>
+            <p>Who is there that is not now throughly sensible, how vainly wee have a long time been deluded? How unfortunately wee have been misled in a good opinion and protection of such whom wee find have but studyed for these many yeares to inthrall us? who, in stead of effecting a Reformation, have wrought a deformation; in stead of Order, confusion. Men thought it the greatest happinesse that could come, that they had obtained a publick Auditory, whereby they might have redresse both of generall and particular grievances; no<g ref="char:EOLhyphen"/>thing more welcome then a Parliament, and especially such a one as was invested with the Regall Power: but alasse, <hi>Clamat pauper &amp; nullus exaudit,</hi> He that was now bettered could hardly be made worse, if we look back upon the frequent Declarations and Protestations published to this Kingdom, truly we shall to our grief and shame, find that both the men and wits come farre short of what was expected. O <hi>England, England!</hi> hadst thou been as fortunate in the choice of thy Nurses, as now thou maist be happy through sight of thy misery, thy Cities then had needed no sconces, thy Townes no bulwarks, thy Countries no guardians, thy Castles no Commanders; thou mightest still have had what now thou wantest, Peace within thy self, and plen<g ref="char:EOLhyphen"/>ty within thy Palaces.</p>
+            <p>How great trust didst thou repose in them whom thou didst elect as men m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>et for places of honour and trust? as men impartiall, un<g ref="char:EOLhyphen"/>corrupt, self-denyers, but oh, hard hap, <hi>homines mutantur,</hi> thy bo<g ref="char:EOLhyphen"/>some freinds are become actors for thy ruine, and truly long thou
+<pb n="3" facs="tcp:207060:3"/>mayst groane, and sigh, and sob, and besmeare thy selfe with blood, and wash thy selfe in teares, before thou finde such as may prove reall freinds; Those that were intrusted for the generall good, have brought upon us a generall calamity, those that were intrusted for our particu<g ref="char:EOLhyphen"/>lar safeties and preservation, have layed the way open for our adver<g ref="char:EOLhyphen"/>saries: The sword hath not devoured more abroad, than by Votes have beene consumed at home, thy adversaries have been succoured, while thy compassionate freinds have beene ready to perish, the Committees have seized upon thy incomes, and strangers have taken up thy dwellings. All parties pretend well, but none act aright: all would boast of something done, if it bee but that they have undone all. Armies that once incountered for thy peace, now retard thy rest, <hi>sed pax in fine</hi> thou maist reape some good by thy sufferings, thou maist finde such a freind or freinds as may ease, if not fully release thee <hi>(&amp; ecce veniunt)</hi> and behold they come.</p>
+         </div>
+         <div type="text">
+            <opener>
+               <salute>Right Honorable,</salute>
+            </opener>
+            <p>It is impossible wee should recite those great abuses wee have suffered, which wee feare our over silence hath wrought, all parties have not beene wanting in this industry, for the augmenting divi<g ref="char:EOLhyphen"/>sions, and setting at variance such as are solemnly united: And we conceive that should we longer rest silent, our ruine were inevitable, such have been the subtle carriages and indeavours of our adversaries for the advancing their owne wicked designes, when seemingly they pretend to hold correspondency with us, but that we must drive at, presenting unto us a sad fore-sight of unavoydable desolation and misery, is the detaining of the person of the King by the Army from his personall being with his two Houses of Parliament, whereby jea<g ref="char:EOLhyphen"/>lousies and fears are greatly increased. And our present Government, Libertie, and lives indangered: we therefore as lately were imbold<g ref="char:EOLhyphen"/>ened to declare unto this City, doe now publish to this Kingdome our resolutions, and the meanes to bee used with possible speede for the effecting our tranquility and quiet; <hi>Resolved as followeth,</hi>
+            </p>
+            <pb n="4" facs="tcp:207060:4"/>
+            <p n="1">1 <hi>That the Person of the King bee speedily brought unto his two Houses of Parliament (as a sure meanes for our more hap<g ref="char:EOLhyphen"/>py settlement.)</hi>
+            </p>
+            <p n="2">2 <hi>That the King at or after his arrivall, or ever afterwards bee not assaulted or disturbed by any party whatsoever.</hi>
+            </p>
+            <p n="3">3 <hi>That his just right and prerogative bee settled upon him, and that as formerly, so now hee injoy his full right, revenues and whatsoever shall accrue as is his proper right.</hi>
+            </p>
+            <p n="4">4 <hi>That hee shall not bee compelled or forced to any thing contrary to his owne conscience either to advance one party or other.</hi>
+            </p>
+            <p n="5">5 <hi>That whatsoever person either by pen or otherwise shall abuse the King, his Queene or any of the Royall Progenie, shall suffer punishment answerably.</hi>
+            </p>
+            <p n="6">6 <hi>That hee shall have what guard his Majesty shall please to make choise of.</hi>
+            </p>
+            <p>Thus God willing are wee resolved whatsoever opposition is in<g ref="char:EOLhyphen"/>tended either by any or all parties, it is not the report of a magna<g ref="char:EOLhyphen"/>nimous Army (who will we hope condiscend hereunto) neither shall we be affrighted with the noyse of a City, and Independant conspi<g ref="char:EOLhyphen"/>racy as some were lately bold to boast of (whom we doe now give to understand) we account as enemies, and so shall be esteemed with all such as herein shall not joyne; giving assurance to this King<g ref="char:EOLhyphen"/>dome and desire it may be taken as a truth, that we intend no other then the settlement of the King and Kingdome in peace and unity. Yet we must be bold to tell you that as occasion serves, we shall give more testimony of our being awake, than that our eyes are open.</p>
+            <p>Now that the World may take notice from whence it is that this our resolution proceeds, we desire no further assistance by Almighty God, then we intend really for the good of the King and Kingdome, hoping that all Countries will joyne with us herein. That so at last this poore, exhausted, and long disquieted Kingdome, may find some rest: and once more injoy a peaceable Government under his Ma<g ref="char:EOLhyphen"/>jestie, and during his reigne. Which God long continue.</p>
+            <closer>Vivat rex &amp; floreat.</closer>
+         </div>
+         <div type="text">
+            <pb n="5" facs="tcp:207060:4"/>
+            <head>To the ARMY.</head>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>VVEE hope wee shall finde no opposition by you in this our resolution, and intentions, it is our desire, and shall bee our cheifest care to settle this Kingdome in some order and quiet<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, but without the residence of the person of the King with his two Houses it is impossible to compose differences or effect peace. It is not our purpose to advance any particular de<g ref="char:EOLhyphen"/>signe of our owne, by these our actions, more than what shall concur with the advice of this our City, all being ge<g ref="char:EOLhyphen"/>nerally resolved to see some speedy settlement, neither do wee intend else to the King, more than what you have pretended (which is the establishment of him in his Throne his injoyment of all rights and preservation.</p>
+            <p>That which will prove you really to be for this king<g ref="char:EOLhyphen"/>domes good, is your forwardnesse to joyn with us, (which we conceive the most surest and sole meanes for our speedy quiet. Mistake us not now, neither think that you shall in the least kinde be injured hereby, as by any thing inten<g ref="char:EOLhyphen"/>ded by us to you, after an accomplishment of our desires herein. We doe professe, that we shall as much seek your satisfaction (as you are Souldiers, and well-deserving men) as ever we shall seek for our own good, after such a cer<g ref="char:EOLhyphen"/>taine testimony of your hearty desire for this kingdomes welfare really evidenced.</p>
+            <p>But we must tell you, that if we shall finde a backward<g ref="char:EOLhyphen"/>nesse in you, and a resistance in these our desires, that then we shall proceed in the most severest way, and in such a course, as shall gaine us honour, bring upon you infamy and disgrace, and utter ruine, for, to tell you truth, were
+<pb n="6" facs="tcp:207060:5"/>we sure to finde thousands for one against us, we should not retard or make any delayes in pursuance of our Resolu<g ref="char:EOLhyphen"/>tions, which are, to see the King speedily and safely ar<g ref="char:EOLhyphen"/>rived at <hi>London,</hi> and the peace of this kingdome setled.</p>
+            <q>By this our admonition wee hope all will bee ready to cleare us as not guilty of any further mischeife, or contentions, if any such misery or common calamity shall happen again.</q>
+            <p>We shall conclude with a figure in Rhetorick called <hi>con<g ref="char:EOLhyphen"/>versio,</hi> resolving many questions with one answer, which wee are bold to use. As thus,</p>
+            <p>
+               <hi>Who acts to the increase of differences? Who cun<g ref="char:EOLhyphen"/>ningly deceives the State? Who retardeth common good and publick peace? Who is the enemie of our happi<g ref="char:EOLhyphen"/>nesse? Who perverts justice? Who votes for self-ends? Who intends ill to the King? Who contemns a lawfull Parliament? Who hates this City? Who would ruine the Kingdome?</hi> We answer,</p>
+            <p>Qui non semper cogitat suarum actio<g ref="char:EOLhyphen"/>num, &amp; cogitationum in spectatorem esse Deum? <hi>he beares neither love to man, nor hath the feare of God before his eyes, neither is touched with a sense of his bre<g ref="char:EOLhyphen"/>threns miseries that would now willfully obstruct our proceedings in our great and good undertakings.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
